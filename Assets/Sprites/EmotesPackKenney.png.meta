@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 3110c610a15b1a74e8a2ba7a3ff0091e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6834214211585686860
+    second: EmotesPackKenney_0
+  - first:
+      213: 3540015213834001090
+    second: EmotesPackKenney_1
+  - first:
+      213: 4482947890324046064
+    second: EmotesPackKenney_2
+  - first:
+      213: -519131452033160944
+    second: EmotesPackKenney_3
+  - first:
+      213: 1515473469280000592
+    second: EmotesPackKenney_4
+  - first:
+      213: -2892476815451037920
+    second: EmotesPackKenney_5
+  - first:
+      213: 5565597233327912048
+    second: EmotesPackKenney_6
+  - first:
+      213: 1274862556186940187
+    second: EmotesPackKenney_7
+  - first:
+      213: 6032346644148924095
+    second: EmotesPackKenney_8
+  - first:
+      213: -2902527614565238723
+    second: EmotesPackKenney_9
+  - first:
+      213: 1442590283140343075
+    second: EmotesPackKenney_10
+  - first:
+      213: 7486558283458469302
+    second: EmotesPackKenney_11
+  - first:
+      213: 6789963675225922058
+    second: EmotesPackKenney_12
+  - first:
+      213: -8038143821070827553
+    second: EmotesPackKenney_13
+  - first:
+      213: 6217169609361071820
+    second: EmotesPackKenney_14
+  - first:
+      213: 444760129967535719
+    second: EmotesPackKenney_15
+  - first:
+      213: -3425709782946332312
+    second: EmotesPackKenney_16
+  - first:
+      213: -8189957010206034919
+    second: EmotesPackKenney_17
+  - first:
+      213: 7745992095286835888
+    second: EmotesPackKenney_18
+  - first:
+      213: 1061940516442486173
+    second: EmotesPackKenney_19
+  - first:
+      213: 3571481092901368615
+    second: EmotesPackKenney_20
+  - first:
+      213: 2680055117263193796
+    second: EmotesPackKenney_21
+  - first:
+      213: -7794296922210461592
+    second: EmotesPackKenney_22
+  - first:
+      213: 6962496411379794042
+    second: EmotesPackKenney_23
+  - first:
+      213: -3974034052286559556
+    second: EmotesPackKenney_24
+  - first:
+      213: 6446584704815160878
+    second: EmotesPackKenney_25
+  - first:
+      213: 3963414026200064917
+    second: EmotesPackKenney_26
+  - first:
+      213: -4377611598492932852
+    second: EmotesPackKenney_27
+  - first:
+      213: 4275499664147620097
+    second: EmotesPackKenney_28
+  - first:
+      213: 6311779505714944792
+    second: EmotesPackKenney_29
+  - first:
+      213: 1882538920946703481
+    second: EmotesPackKenney_30
+  - first:
+      213: -6120252026106994851
+    second: EmotesPackKenney_31
+  - first:
+      213: 1422775360464992304
+    second: EmotesPackKenney_32
+  - first:
+      213: 4570047465877654689
+    second: EmotesPackKenney_33
+  - first:
+      213: 7791012211870139229
+    second: EmotesPackKenney_34
+  - first:
+      213: 8023799898042354571
+    second: EmotesPackKenney_35
+  - first:
+      213: 8226205583936734845
+    second: EmotesPackKenney_36
+  - first:
+      213: -6553881198626614691
+    second: EmotesPackKenney_37
+  - first:
+      213: -2229547656292270466
+    second: EmotesPackKenney_38
+  - first:
+      213: -5269118315305743854
+    second: EmotesPackKenney_39
+  - first:
+      213: 7485953381508734587
+    second: EmotesPackKenney_40
+  - first:
+      213: 7478851181675650518
+    second: EmotesPackKenney_41
+  - first:
+      213: -8363053764964117479
+    second: EmotesPackKenney_42
+  - first:
+      213: -126381255090470109
+    second: EmotesPackKenney_43
+  - first:
+      213: 4564616749672557392
+    second: EmotesPackKenney_44
+  - first:
+      213: -7811710078974534581
+    second: EmotesPackKenney_45
+  - first:
+      213: -1516977134358755082
+    second: EmotesPackKenney_46
+  - first:
+      213: -7622225401017212384
+    second: EmotesPackKenney_47
+  - first:
+      213: 8465594914860127030
+    second: EmotesPackKenney_48
+  - first:
+      213: -966971723533832688
+    second: EmotesPackKenney_49
+  - first:
+      213: 6343801030082763799
+    second: EmotesPackKenney_50
+  - first:
+      213: 3591851439583961767
+    second: EmotesPackKenney_51
+  - first:
+      213: -6110285308661611031
+    second: EmotesPackKenney_52
+  - first:
+      213: -8270107889668383188
+    second: EmotesPackKenney_53
+  - first:
+      213: 6934723819800601643
+    second: EmotesPackKenney_54
+  - first:
+      213: 7900168734573613561
+    second: EmotesPackKenney_55
+  - first:
+      213: 315125641286856593
+    second: EmotesPackKenney_56
+  - first:
+      213: 7683214363441387461
+    second: EmotesPackKenney_57
+  - first:
+      213: 5283520094212063085
+    second: EmotesPackKenney_58
+  - first:
+      213: 3468226315544835275
+    second: EmotesPackKenney_59
+  - first:
+      213: 5154884918833613283
+    second: EmotesPackKenney_60
+  - first:
+      213: -5673368118633805081
+    second: EmotesPackKenney_61
+  - first:
+      213: -1377576501528238189
+    second: EmotesPackKenney_62
+  - first:
+      213: 8919542352119677996
+    second: EmotesPackKenney_63
+  - first:
+      213: 8217672472288947878
+    second: EmotesPackKenney_64
+  - first:
+      213: 3762750054251279783
+    second: EmotesPackKenney_65
+  - first:
+      213: 3898620282862151868
+    second: EmotesPackKenney_66
+  - first:
+      213: 8775131234246540918
+    second: EmotesPackKenney_67
+  - first:
+      213: 4777270171224446500
+    second: EmotesPackKenney_68
+  - first:
+      213: 6804445109726256085
+    second: EmotesPackKenney_69
+  - first:
+      213: -583824997546225603
+    second: EmotesPackKenney_70
+  - first:
+      213: -5622850539512418616
+    second: EmotesPackKenney_71
+  - first:
+      213: 722469263595400867
+    second: EmotesPackKenney_72
+  - first:
+      213: 3420962731265133640
+    second: EmotesPackKenney_73
+  - first:
+      213: 7065555021377432718
+    second: EmotesPackKenney_74
+  - first:
+      213: 8981450363778071178
+    second: EmotesPackKenney_75
+  - first:
+      213: -1369979471993508050
+    second: EmotesPackKenney_76
+  - first:
+      213: 2259799248225487255
+    second: EmotesPackKenney_77
+  - first:
+      213: -6517700692745062214
+    second: EmotesPackKenney_78
+  - first:
+      213: -738655225100205024
+    second: EmotesPackKenney_79
+  - first:
+      213: 7093609108678906787
+    second: EmotesPackKenney_80
+  - first:
+      213: -1875083121476326257
+    second: EmotesPackKenney_81
+  - first:
+      213: -2107405073532355809
+    second: EmotesPackKenney_82
+  - first:
+      213: 2032958637626832283
+    second: EmotesPackKenney_83
+  - first:
+      213: 8710203148131854268
+    second: EmotesPackKenney_84
+  - first:
+      213: -7782763174371361905
+    second: EmotesPackKenney_85
+  - first:
+      213: 9045050438843546810
+    second: EmotesPackKenney_86
+  - first:
+      213: -5648977465423959256
+    second: EmotesPackKenney_87
+  - first:
+      213: 6739889446461195322
+    second: EmotesPackKenney_88
+  - first:
+      213: -1941103763836515206
+    second: EmotesPackKenney_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmotesPackKenney_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2428f326ef721a0800000000000000
+      internalID: -6834214211585686860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cadd08c419a02130800000000000000
+      internalID: 3540015213834001090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f00a55ca51a63e30800000000000000
+      internalID: 4482947890324046064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019a4d1e1bcabc8f0800000000000000
+      internalID: -519131452033160944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a96fa471b080510800000000000000
+      internalID: 1515473469280000592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fdcfd49abdbd7d0800000000000000
+      internalID: -2892476815451037920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07438672239fc3d40800000000000000
+      internalID: 5565597233327912048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1318f68db831b110800000000000000
+      internalID: 1274862556186940187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2486ef4337b350800000000000000
+      internalID: 6032346644148924095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b317438628b7d0800000000000000
+      internalID: -2902527614565238723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a207283c150410800000000000000
+      internalID: 1442590283140343075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bddcc3e71995e760800000000000000
+      internalID: 7486558283458469302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a95a3ecfbca3e50800000000000000
+      internalID: 6789963675225922058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf729b58c6c27090800000000000000
+      internalID: -8038143821070827553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce125ad1d2d74650800000000000000
+      internalID: 6217169609361071820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b8f45bfa1c2600800000000000000
+      internalID: 444760129967535719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86147e34a1f6570d0800000000000000
+      internalID: -3425709782946332312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f2f0dd7d675e80800000000000000
+      internalID: -8189957010206034919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3e8845ca4f7b60800000000000000
+      internalID: 7745992095286835888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953627f545ccbe00800000000000000
+      internalID: 1061940516442486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f868a123709130800000000000000
+      internalID: 3571481092901368615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c0fafde7713520800000000000000
+      internalID: 2680055117263193796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86899b5ce3815d390800000000000000
+      internalID: -7794296922210461592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a708936e891cf9060800000000000000
+      internalID: 6962496411379794042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4724b51569d8c0800000000000000
+      internalID: -3974034052286559556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e59f032aed67950800000000000000
+      internalID: 6446584704815160878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a479ce00e00730800000000000000
+      internalID: 3963414026200064917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e23bd1799f33c0800000000000000
+      internalID: -4377611598492932852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotesPackKenney_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10122deba40a55b30800000000000000
+      internalID: 4275499664147620097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
